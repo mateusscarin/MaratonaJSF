@@ -31,22 +31,22 @@ Hot deploy - algumas coisas podem ser alteradas sem ter que reiniciar o servidor
 - JSF #{valor} - permite fazer tanto a leitura como a escrita de valores, ou seja, serão chamados tanto os gets como os sets
 
 *Operações Lógicas*
-and - &&
-or - ||
-not - !
-eq - ==
-ne - !=
-lt - <
-gt - >
-le - <=
-ge - >=
-true - verdadeiro (1)
-false - falso (0)
-null - nulo
-instanceof - 
-empty - 
-div - divisão
-mod - resto
+-> and - &&
+-> or - ||
+-> not - !
+-> eq - ==
+-> ne - !=
+-> lt - <
+-> gt - >
+-> le - <=
+-> ge - >=
+-> true - verdadeiro (1)
+-> false - falso (0)
+-> null - nulo
+-> instanceof - 
+-> empty - 
+-> div - divisão
+-> mod - resto
 
 *Coleções*
 Diferença entre:
